@@ -26,7 +26,7 @@ Nunca utilize os scripts de exploração em sistemas que você não possui permi
 
 ## 🚀 Como Executar
 
-### Pré-requisitos
+## Pré-requisitos
 Você precisará do Python 3 e das bibliotecas `flask` e `requests`.
 
 ```bash
